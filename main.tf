@@ -25,7 +25,7 @@ action "bufo_print" "hello" {
   }
 }
 
-action "bufo_print_too" "hello" {
+action "bufo_print" "hello2" {
   config {
     color = var.color
   }
